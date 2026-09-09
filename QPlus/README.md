@@ -1,40 +1,89 @@
 # QPlus — Improving the Hospital Patient Journey
 
-A UI/UX case study focused on improving the patient experience across a hospital journey — from reception and registration to consultation, pharmacy, and payment.
+A UI/UX case study focused on improving the hospital experience across reception, registration, consultation, pharmacy, and payment.
 
-## Overview
+---
 
-QPlus explores how a hospital experience can be made more efficient, accessible, and less stressful for patients and their families.
+## 01 — Introduction
 
-## Problem
+![Introduction](01-introduction.jpg)
 
-Patients often face long and unpredictable waiting times across different stages of their hospital visit. Everyone may be required to follow the same process, even when some patients have urgent or severe conditions.
+## 02 — Project Overview
 
-This creates unnecessary stress, delays, and confusion.
+![Project Overview](02-project-overview.jpg)
 
-## Goal
+## 03 — Final Product
 
-Design a more connected hospital experience that helps patients:
+![Mockup](03-mockup.jpg)
 
-- Reduce unnecessary waiting
-- Understand what happens next
-- Prioritize urgent cases appropriately
-- Move smoothly between hospital services
-- Complete their journey with less confusion
+## 04 — Problem & Solution
 
-## My Role
+![Problem Statement and Solution](04-problem-statement-and-solution.jpg)
 
-UI/UX Designer
+## 05 — Design Process
 
-## Tools
+![Design Process](05-design-process.jpg)
 
-- Figma
-- FigJam
+## 06 — User Persona
 
-## Design Process
+![User Persona](06-user-persona.jpg)
 
-Research → User Flows → Information Architecture → Wireframes → UI Design → Prototype
+## 07 — User Flow
 
-## Outcome
+![User Flow](07-user-flow.jpg)
 
-A patient-centered hospital experience designed to make the entire journey more organized, transparent, and efficient.
+## 08 — Information Architecture
+
+![Information Architecture](08-information-architecture.jpg)
+
+## 09 — Wireframes
+
+![Wireframes](09-wireframes.jpg)
+
+## 10 — Visual Design
+
+![Visual Design](10-visual-design.jpg)
+
+## 11 — Visual Design Mockups
+
+![Visual Design Mockups](11-visual-design-mockup.jpg)
+
+## 12 — Login / Sign Up
+
+![Login and Sign Up](12-login-signup.jpg)
+
+## 13 — Book Token
+
+![Book Token](13-book-token.jpg)
+
+## 14 — After Consultation
+
+![After Consultation](14-after-consultation.jpg)
+
+## 15 — My Queue
+
+![My Queue](15-my-queue.jpg)
+
+## 16 — Doctor Dashboard
+
+![Doctor Dashboard](16-doctors-dashboard.jpg)
+
+## 17 — Staff Dashboard
+
+![Staff Dashboard](17-staff-dashboard.jpg)
+
+## 18 — Kiosk System
+
+![Kiosk System](18-kiosk-system.jpg)
+
+## 19 — Product Mockups
+
+![Product Mockups](19-mockups.jpg)
+
+## 20 — Empathy Features
+
+![Empathy Features](20-empathy-features.jpg)
+
+## 21 — Empathy Features
+
+![Empathy Features](21-empathy-features.jpg)
